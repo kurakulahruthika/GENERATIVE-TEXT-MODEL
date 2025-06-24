@@ -134,3 +134,7 @@ The LSTM model was good at local pattern prediction but struggled with long cont
 This project helped me understand the internal mechanics of generative text models and how to implement them in real projects. I was able to build a complete pipeline—from raw text data to a trained model capable of producing original text. I plan to continue enhancing the model by integrating attention mechanisms into the LSTM model and further exploring transformer-based architectures.
 
 ---
+
+### OUTPUT
+
+![Image](https://github.com/user-attachments/assets/3b6e1ac1-3d3d-41f9-90e7-37ac2e950d1f)
